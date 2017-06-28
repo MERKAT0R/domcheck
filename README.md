@@ -11,3 +11,11 @@ Settings:
 $dom = range(0000, 9999);
 $zones = array('com','net','org','ru','nu');
 ```
+
+Usage(php-cli):
+
+* Requires php-mbstring & php-curl
+
+```bash
+ php whois.php
+```
