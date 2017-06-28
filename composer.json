@@ -1,0 +1,16 @@
+{
+    "name": "root/who",
+    "type": "project",
+    "license": "hrenware",
+    "authors": [
+        {
+            "name": "MERKATOR",
+            "email": "merkator@merkator.pro"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"phois/whois": "*"
+}
+
+}
